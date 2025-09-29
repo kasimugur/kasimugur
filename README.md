@@ -49,7 +49,7 @@
 > I put the term  <ins>Featured project 🚀</ins> to projects that are **more important** and **worthier to review** than others. If you don't have much time to review them all, <span style="color:red">**you can look at them directly**</span> 👍
 
 ### Frontend Projects
-<ul>
+<!-- <ul> 
 <li> <a href="https://react-redux-blogapp.vercel.app/" rel="nofollow"> React Blog App </a> -- <a href="https://github.com/bekirugurr/react-redux-blog-app" rel="nofollow"> Repo  </a> <ins> Featured project 🚀</ins></li> 
 <li><a href="https://popup-generator.vercel.app/" rel="nofollow"> Popup Generator </a> -- <a href="https://github.com/bekirugurr/popup-generator" rel="nofollow"> Repo </a>  <ins> Featured project 🚀</ins></li> 
 <li> <a href="https://bugur-firebase-movie-search-app.netlify.app/" rel="nofollow"> React Movie App  </a> -- <a href="https://github.com/bekirugurr/firebase-movie-app" rel="nofollow"> Repo </a> <ins>Featured project 🚀</ins></li> 
@@ -73,8 +73,8 @@
 ❗  : React Blog App is frontend side and Blog API is backend side of my Fullstack Blog App 
 
 ‼️ : Blog App With Django Template and  To Do App With Django Templates are Fullstack projects. Because for frontend django and for backend django templates are used
-
+-->
 ## 📈 Statistics
 
-[![Bekir's GitHub stats](https://github-readme-stats.vercel.app/api?username=bekirugurr&theme=onedark&show_icons=true)](https://github.com/kasimugur/github-readme-stats)
+[![Bekir's GitHub stats](https://github-readme-stats.vercel.app/api?username=kasimugur&theme=onedark&show_icons=true)](https://github.com/kasimugur/github-readme-stats)
 
