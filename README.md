@@ -1,7 +1,7 @@
 ### Hi there. I'm Kasım 👋
 <ul>
 <li>I am a Full Stack Developer from Turkey</li>
-<li>This is <a href="https://port/" rel="nofollow">My Portfolio Website</a></li>
+<!-- <li>This is <a href="https://port/" rel="nofollow">My Portfolio Website</a></li> -->
 </ul>
 
 
