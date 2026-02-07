@@ -26,8 +26,6 @@
 
 ## 🗄️ Backend Stack
 <a href="https://www.python.org/"><img src="https://user-images.githubusercontent.com/94041207/199492900-766b0685-56b1-42fc-8510-a221f05de673.png" alt="python" height="28" data-canonical-src="https://www.python.org/static/img/python-logo.png" style="max-width: 100%;">   </a>
-<a href="https://www.djangoproject.com/"><img src="https://user-images.githubusercontent.com/94041207/199492944-09e06dfc-a246-48e5-9dea-08c57195fcbd.png" alt="django" height="28" data-canonical-src="https://www.djangoproject.com/m/img/logos/django-logo-negative.png" style="max-width: 100%;"></a>
-<a href="https://www.django-rest-framework.org/"><img src="https://user-images.githubusercontent.com/94041207/199345513-1a3bd338-9d8a-44a4-b3c4-e64b2ac7eed4.png" alt="django rest framework" height="28" style="max-width: 100%;"></a>
 <a href="https://www.sqlite.org/index.html"><img src="https://user-images.githubusercontent.com/94041207/199492996-de5eaa34-dc69-463a-a31d-8fc3a3dc7694.png" alt="SQLite" height="28" style="max-width: 100%;"></a>
 <a href="https://www.postgresql.org/"><img src="https://user-images.githubusercontent.com/94041207/199492963-9315ee83-5be9-43b3-aa14-ebdd9a869aea.png" alt="PostgreSQL" height="28" style="max-width: 100%;"></a>
 <a href="https://firebase.google.com/" rel="nofollow"><img src="https://user-images.githubusercontent.com/94041207/199493030-f3227f28-6384-49ec-91e4-d07ccb8b8c93.png" height="28" alt="Firebase" data-canonical-src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" style="max-width: 100%;"></a>
@@ -71,7 +69,4 @@
 
 ‼️ : Blog App With Django Template and  To Do App With Django Templates are Fullstack projects. Because for frontend django and for backend django templates are used
 -->
-## 📈 Statistics
-
-[![Bekir's GitHub stats](https://github-readme-stats.vercel.app/api?username=kasimugur&theme=onedark&show_icons=true)](https://github.com/kasimugur/github-readme-stats)
 
