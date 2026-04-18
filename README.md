@@ -1,7 +1,7 @@
 ### Hi there. I'm Kasım 👋
 <ul>
 <li>I am a Full Stack Developer from Turkey</li>
-<!-- <li>This is <a href="https://port/" rel="nofollow">My Portfolio Website</a></li> -->
+<li>This is <a href="https://kasimugur.vercel.app/" rel="nofollow">My Portfolio Website</a></li>
 </ul>
 
 
@@ -40,33 +40,30 @@
 <a href="https://vercel.com/" rel="nofollow"><img src="https://user-images.githubusercontent.com/94041207/199493665-4c2af34d-d636-4bc5-98e8-896019462af0.png"  height="28" alt="Vercel" style="max-width: 100%;"></a>
 <a href="https://www.figma.com/" rel="nofollow"><img src="https://user-images.githubusercontent.com/94041207/199493671-048b1a30-324d-4806-a7e6-fb9d9f89dc89.png"  height="28" alt="Figma" data-canonical-src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" style="max-width: 100%;"></a>
 
-## ✨ My Projects
-> I put the term  <ins>Featured project 🚀</ins> to projects that are **more important** and **worthier to review** than others. If you don't have much time to review them all, <span style="color:red">**you can look at them directly**</span> 👍
 
-### Frontend Projects
-<!-- <ul> 
-<li> <a href="https://react-redux-blogapp.vercel.app/" rel="nofollow"> React Blog App </a> -- <a href="https://github.com/bekirugurr/react-redux-blog-app" rel="nofollow"> Repo  </a> <ins> Featured project 🚀</ins></li> 
-<li><a href="https://popup-generator.vercel.app/" rel="nofollow"> Popup Generator </a> -- <a href="https://github.com/bekirugurr/popup-generator" rel="nofollow"> Repo </a>  <ins> Featured project 🚀</ins></li> 
-<li> <a href="https://bugur-firebase-movie-search-app.netlify.app/" rel="nofollow"> React Movie App  </a> -- <a href="https://github.com/bekirugurr/firebase-movie-app" rel="nofollow"> Repo </a> <ins>Featured project 🚀</ins></li> 
-<li> <a href="https://bekirugur.netlify.app/" rel="nofollow"> React Personel Portfolio </a> -- <a href="https://github.com/bekirugurr/portfolio" rel="nofollow"> Repo </a></li> 
-<li><a href="https://todo-bkr.netlify.app/" rel="nofollow"> React Todo App </a> -- <a href="https://github.com/bekirugurr/React-Todo-App" rel="nofollow"> Repo </a> </li> 
-<li> <a href="https://bugur-checkout.netlify.app/" rel="nofollow"> Checkout Page </a> -- <a href="https://github.com/bekirugurr/Checkout-Page-2" rel="nofollow"> Repo </a></li> 
-<li><a href="https://bugur-movieseat-app.netlify.app/" rel="nofollow"> Movie Ticket App </a> -- <a href="https://github.com/bekirugurr/Movie-Seat-App" rel="nofollow"> Repo </a></li> 
-<li><a href="https://bugur-ios-calculator.netlify.app/" rel="nofollow"> Ios Calculator </a> -- <a href="https://github.com/bekirugurr/Ios-Calculator" rel="nofollow"> Repo </a> </li> 
-<li><a href="https://bekirugurr.github.io/Lucky-Numbers-Generator/" rel="nofollow"> Lottery Ticket App </a> -- <a href="https://github.com/bekirugurr/Lucky-Numbers-Generator" rel="nofollow"> Repo </a> </li> 
-<li><a href="https://bekirugurr.github.io/Find-the-Number-Game/" rel="nofollow"> Find The Number Game App </a> -- <a href="https://github.com/bekirugurr/Find-the-Number-Game" rel="nofollow"> Repo </a> </li> 
-</ul>
+## ✨ Featured Projects 🚀
+Eğer vaktiniz kısıtlıysa, teknik yetkinliklerimi en iyi yansıtan bu projelere göz atabilirsiniz:
 
-### Backend Projects
-<ul>
-<li>Flight Reservation API -- <a href="https://github.com/bekirugurr/flight-reservation-app-django" rel="nofollow"> Repo </a> <ins>Featured project 🚀</ins></li> 
-<li>Blog API -- <a href="https://github.com/bekirugurr/blog-API-django" rel="nofollow"> Repo </a> <ins>Featured project 🚀</ins></li> 
-<li>Quiz API -- <a href="https://github.com/bekirugurr/quiz-app-django" rel="nofollow"> Repo </a></li> 
-<li>Blog App With Django Template -- <a href="https://github.com/bekirugurr/blog-app-django" rel="nofollow"> Repo </a></li> 
-<li><a href="https://django-mytodo-app.herokuapp.com/" rel="nofollow"> To Do App With Django Templates</a> -- <a href="https://github.com/bekirugurr/todo-app-django" rel="nofollow"> Repo </a>  </li> 
-</ul>
-❗  : React Blog App is frontend side and Blog API is backend side of my Fullstack Blog App 
+### 🌟 VibeBlog
+> **Next.js 16 | NewsAPI | SSR | URL State Management**
+> Gerçek zamanlı veri akışı sağlayan, Error Boundaries ve dayanıklı mimari ile inşa edilmiş modern haber platformu.
+> - [Canlı Demo](https://vibeblog.vercel.app/) • [Repo](https://github.com/kasimugur/vibeblog)
 
-‼️ : Blog App With Django Template and  To Do App With Django Templates are Fullstack projects. Because for frontend django and for backend django templates are used
--->
+### 🌟 NexusDash
+> **Zustand | Tailwind v4 | SaaS Engine**
+> Yüksek performanslı dashboard prototipleri üretmek için geliştirilmiş SaaS motoru.
+> - [Canlı Demo](https://dashboard-generator-peach.vercel.app/) • [Repo](https://github.com/kasimugur/nexus-dash)
 
+### 🌟 CineSearch
+> **React | TVMaze API | TypeScript**
+> Film ve dizi keşfi için optimize edilmiş, detaylı arama ve filtreleme özelliklerine sahip web uygulaması.
+> - [Canlı Demo](https://movie-app-liard-tau.vercel.app/) • [Repo](https://github.com/kasimugur/movie-app)
+> - 
+## 📊 GitHub Stats
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=kasimugur&show_icons=true&theme=dark&hide_border=true" alt="Kasım's Stats" />
+</p>
+
+## 📧 Get in Touch
+- **LinkedIn:** [linkedin.com/in/kasimugur](https://linkedin.com/in/kasimugur)
+- **Email:** [kasimugur.contact@gmail.com](mailto:kasimugur.contact@gmail.com)
